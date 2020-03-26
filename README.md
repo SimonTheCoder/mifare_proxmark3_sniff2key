@@ -13,7 +13,7 @@ below.
 
 ### Tips:
 #### 1. generate trace file:
->proxmark3> hf list 14a -s ./trace.txt
+>proxmark3> hf list 14a -s ./trace.trc
 
 ### Refs:
 * http://www.proxmark.org/
