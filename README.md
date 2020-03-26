@@ -16,6 +16,6 @@ below.
 >proxmark3> hf list 14a -s ./trace.txt
 
 ### Refs:
-http://www.proxmark.org/
-https://github.com/Proxmark/proxmark3
-https://github.com/nfc-tools/mfcuk
+* http://www.proxmark.org/
+* https://github.com/Proxmark/proxmark3
+* https://github.com/nfc-tools/mfcuk
