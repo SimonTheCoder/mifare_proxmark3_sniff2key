@@ -1,5 +1,5 @@
-Calculate the card key using  <UID> <TAG CHALLENGE> <READER CHALLENGE> 
-<READERRESPONSE> <TAG RESPONSE> from sniff tracing. 
+Calculate the card key using  UID TAG CHALLENGE READER CHALLENGE 
+READERRESPONSE TAG RESPONSE from sniff tracing. 
 All sources are copied from repos
 below.
 
