@@ -4,8 +4,8 @@ All sources are copied from repos
 below.
 
 ### Source files are from:
-1. http://www.proxmark.org/files/Various%20Software/MIFARE%20Classic/mifarecrack/
-2. https://github.com/nfc-tools/mfcuk/tree/master/src
+* http://www.proxmark.org/files/Various%20Software/MIFARE%20Classic/mifarecrack/
+* https://github.com/nfc-tools/mfcuk/tree/master/src
 
 
 ### build:
