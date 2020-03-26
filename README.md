@@ -15,7 +15,7 @@ below.
 #### 1. generate trace file:
 >proxmark3> hf list 14a -s /tmp/trace.trc
 
-#### 1. Analyze trace file automaticly:
+#### 2. Analyze trace file automaticly:
 >python mifarecrack.py /tmp/trace.trc
 This command will try to find all complete auth, and calculate keys.
 
